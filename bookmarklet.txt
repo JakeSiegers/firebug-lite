@@ -1,0 +1,1 @@
+javascript:var firebug=document.createElement('script');firebug.setAttribute('src','https://jakesiegers.github.io/firebug-lite/firebug-lite.js');document.body.appendChild(firebug);(function(){if(window.firebug.version){firebug.init();}else{setTimeout(arguments.callee);}})();void(firebug);
